@@ -1,1 +1,67 @@
+body{
+	background-color: black;
 
+	color: white;
+	font-family: 'Fjalla One', sans-serif;
+}
+.leftside{
+	margin-left: 50px;
+}
+.name{
+	font-size: 20px;
+}
+.j{
+	margin-top: 50px;
+}
+.w{
+	margin-top: -30px;
+}
+.h1 ,.h2{
+	margin-top: 50px;
+}
+.p{
+	margin-top: 10px;
+	margin-left: 30px;
+	border-radius:135px;
+}
+.exp1{
+	margin-right: 925px;
+	margin-top: -7px;
+	font-size: 15px;
+}
+.exp2{
+	margin-right: 925px;
+	margin-top: -7px;
+	font-size: 15px;
+}
+.rightside{
+	font-size: 15px;
+	margin-top: -680px;
+	margin-left: 50%;
+}
+.ab1{
+	margin-top: -7px;
+	margin-right: 300px;
+	font-size: 15px;
+}
+.ab2{
+	margin-top: 5px;
+	font-size: 15px;
+}
+.hr{
+	margin-top: 500px;
+}
+.hr1{
+	border-bottom: 1.5px dotted white;
+	position: absolute;
+	margin-top: 10px;
+	width: 100%;
+}
+.social1{
+	margin-top: -137px;
+	margin-left: 300px;
+	position: absolute;
+}
+.icon{
+	margin-top: 10px;
+}
